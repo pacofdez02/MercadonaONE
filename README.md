@@ -13,3 +13,6 @@ Part 5-final
   Acabat, llevat else if -> if
   he llevat claudàtors que hi havien de més per a facilitar la lectura de codi
   Tots els tests passen
+  
+Part final Optimitzada
+  Refactoritzat i estructurat de la manera més abstracta, però llegible a la vegada, creació de nous mètodes i mètode principal (el que hem estat tractant) remodelat.
